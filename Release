@@ -1,8 +1,8 @@
-Origin: Youtube Repo
-Label: Youtube Repo
+Origin: Mehmet's Gülcan Repository
+Label: Mehmet's Gülcan Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Youtube Repo Description
+Description: Mehmet's Gülcan Repository Description
